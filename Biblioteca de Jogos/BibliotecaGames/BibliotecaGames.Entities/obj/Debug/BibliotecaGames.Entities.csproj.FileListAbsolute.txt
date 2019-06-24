@@ -1,0 +1,5 @@
+E:\Documentos Acadêmicos\ASP.Net C#\Biblioteca de Jogos\BibliotecaGames\BibliotecaGames.Entities\bin\Debug\BibliotecaGames.Entities.dll
+E:\Documentos Acadêmicos\ASP.Net C#\Biblioteca de Jogos\BibliotecaGames\BibliotecaGames.Entities\bin\Debug\BibliotecaGames.Entities.pdb
+E:\Documentos Acadêmicos\ASP.Net C#\Biblioteca de Jogos\BibliotecaGames\BibliotecaGames.Entities\obj\Debug\BibliotecaGames.Entities.dll
+E:\Documentos Acadêmicos\ASP.Net C#\Biblioteca de Jogos\BibliotecaGames\BibliotecaGames.Entities\obj\Debug\BibliotecaGames.Entities.pdb
+E:\Documentos Acadêmicos\ASP.Net C#\Biblioteca de Jogos\BibliotecaGames\BibliotecaGames.Entities\obj\Debug\BibliotecaGames.Entities.csprojResolveAssemblyReference.cache

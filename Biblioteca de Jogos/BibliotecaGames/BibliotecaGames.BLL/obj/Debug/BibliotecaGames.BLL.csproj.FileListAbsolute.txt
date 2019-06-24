@@ -1,0 +1,9 @@
+E:\Documentos Acadêmicos\ASP.Net C#\Biblioteca de Jogos\BibliotecaGames\BibliotecaGames.BLL\bin\Debug\BibliotecaGames.BLL.dll
+E:\Documentos Acadêmicos\ASP.Net C#\Biblioteca de Jogos\BibliotecaGames\BibliotecaGames.BLL\bin\Debug\BibliotecaGames.BLL.pdb
+E:\Documentos Acadêmicos\ASP.Net C#\Biblioteca de Jogos\BibliotecaGames\BibliotecaGames.BLL\bin\Debug\BibliotecaGames.DAL.dll
+E:\Documentos Acadêmicos\ASP.Net C#\Biblioteca de Jogos\BibliotecaGames\BibliotecaGames.BLL\bin\Debug\BibliotecaGames.Entities.dll
+E:\Documentos Acadêmicos\ASP.Net C#\Biblioteca de Jogos\BibliotecaGames\BibliotecaGames.BLL\bin\Debug\BibliotecaGames.DAL.pdb
+E:\Documentos Acadêmicos\ASP.Net C#\Biblioteca de Jogos\BibliotecaGames\BibliotecaGames.BLL\bin\Debug\BibliotecaGames.Entities.pdb
+E:\Documentos Acadêmicos\ASP.Net C#\Biblioteca de Jogos\BibliotecaGames\BibliotecaGames.BLL\obj\Debug\BibliotecaGames.BLL.csprojResolveAssemblyReference.cache
+E:\Documentos Acadêmicos\ASP.Net C#\Biblioteca de Jogos\BibliotecaGames\BibliotecaGames.BLL\obj\Debug\BibliotecaGames.BLL.dll
+E:\Documentos Acadêmicos\ASP.Net C#\Biblioteca de Jogos\BibliotecaGames\BibliotecaGames.BLL\obj\Debug\BibliotecaGames.BLL.pdb
